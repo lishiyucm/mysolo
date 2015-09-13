@@ -1,0 +1,2 @@
+# mysolo
+first project
